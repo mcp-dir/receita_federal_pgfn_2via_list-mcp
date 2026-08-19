@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/receita_federal_pgfn_2via_list-mcp",
+  "title": "Receita Federal: PGFN (CND Federal) - Lista Segunda Via",
+  "description": "Receita Federal: PGFN (CND Federal) - Lista 2nd Copy, official-source lookup. Platform-hosted, pay p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/receita_federal_pgfn_2via_list-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_receita_federal_pgfn_2via_list"
+    }
+  ]
+}
